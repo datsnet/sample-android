@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, HelloAppActivity!</string>
+	<string name="app_name">HelloApp</string>
+	<string name="button_label">Click me!</string>
+	<string-array name="list1">
+		<item>Android</item>
+		<item>iOS</item>
+		<item>Windows Phone</item>
+	</string-array>
+</resources>
